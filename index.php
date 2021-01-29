@@ -1,9 +1,9 @@
 <?php
 
 // Premiere ligne
+$fname = "mickael";
 
-
-echo "Bienvenue". ;
+echo "Bienvenue" . "<br>" . $fname;
 
 
 
